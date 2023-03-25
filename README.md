@@ -61,7 +61,7 @@ This is the status you would like to set tickets to if they reoccur.
 ## Installation
 To Deploy you can click the below button and then configure the settings as detailed above.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fnocnocdev%2fDattoRMM-Alert-HaloPSA%2fmain%2fDeployment%2fAzureDeployment.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fnocnocdev%2fDattoRMM-Alert-HaloPSA-main%2fmain%2fDeployment%2fAzureDeployment.json)
 
 ### Make a cup of tea.
 It can take about 30 minutes once the deployment completes for Azure to pickup all the permissions between the different components that were deployed. After 30 minutes I would recommend restarting your function app and checking in the function options that all the key vault references show green.
