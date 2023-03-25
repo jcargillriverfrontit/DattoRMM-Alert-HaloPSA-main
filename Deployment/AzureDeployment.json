@@ -10,7 +10,7 @@
             }
         },
         "DattoURL": {
-            "defaultValue": "https://merlot-api.centrastage.net",
+            "defaultValue": "https://pinotage-api.centrastage.net",
             "type": "string",
             "metadata": {
                 "description": "Your Datto API URL"
